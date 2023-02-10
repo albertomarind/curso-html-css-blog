@@ -1,0 +1,13 @@
+/* * {
+    border: 1px solid black;
+} */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .resaltar {
+    color: red;
+}
